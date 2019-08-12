@@ -14,9 +14,9 @@ no idea about sql at the time I wrote it.
 Note: only can be used for you to scrap a small amout of data, anything more than that require multiprocessing
       and using headers and different proxies 
       
-Here is a small screenshot of the data I got
+Here is a small demo of the data I got
 
-
+![Screen Shot 2019-08-12 at 12 22 52 PM](https://user-images.githubusercontent.com/52882728/62845662-74457400-bcfc-11e9-82e3-6dadb0e339f8.png)
 
 
 Also, I did a few data visualisation just to practice the use of matplotlib and pandas
