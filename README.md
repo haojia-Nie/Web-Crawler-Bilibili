@@ -17,6 +17,35 @@ A small demo of the data I got:
 
 Also, I use matplotlib and pandas for data visualisation
 
+The result is kind of interesting: 
+
+GENDER
+
+Among the 1000 data, 
+the ratio of male : female = 2.2 : 1
+
+
+
+
+LEVEl & VIP:
+
+most of the people are in below level 1, 
+the higher the level, the higher the ratio of vip. 
+
+
+
+
+
+FOLLOWER:
+
+The 3 most popular user:
+user id: 2000621 name: 叫我三木  home: https://space.bilibili.com/2000621  follower: 11168
+user_id: 2000587 name: 馥夜闻笛  home: https://space.bilibili.com/2000587  follower: 6759
+user id: 2000133 name: 津岛纸箱  hoem: https://space.bilibili.com/2000133  follower: 5066
+
+
+
+
 
 
 
