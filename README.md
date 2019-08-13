@@ -23,6 +23,8 @@ GENDER
 
 Among the 1000 data, 
 the ratio of male : female = 2.2 : 1
+
+
 ![gender_pie_chart](https://user-images.githubusercontent.com/52882728/62911891-897fd880-bdb8-11e9-932e-7ac85efbc3a2.png)
 
 
