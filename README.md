@@ -39,11 +39,13 @@ the higher the level, the higher the ratio of vip.
 FOLLOWER:
 
 The 3 most popular user:
+
 user id: 2000621 name: 叫我三木  home: https://space.bilibili.com/2000621  follower: 11168    
 user_id: 2000587 name: 馥夜闻笛  home: https://space.bilibili.com/2000587  follower: 6759    
 user id: 2000133 name: 津岛纸箱  hoem: https://space.bilibili.com/2000133  follower: 5066
 
 In general:
+
 ![following](https://user-images.githubusercontent.com/52882728/62911996-fc894f00-bdb8-11e9-8704-54225db9ea40.png)
 
 
@@ -51,6 +53,7 @@ In general:
 
 
 FOLLOWING:
+
 There are only 1 user has  more than 1000 following, 
 Most of the user has less than 10 following,
 
