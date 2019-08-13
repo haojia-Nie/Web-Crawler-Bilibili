@@ -32,7 +32,7 @@ LEVEl & VIP:
 most of the people are in below level 1, 
 the higher the level, the higher the ratio of vip. 
 
-
+![level_users](https://user-images.githubusercontent.com/52882728/62911815-47ef2d80-bdb8-11e9-91c9-0fae8fbf23ee.png)
 
 
 
