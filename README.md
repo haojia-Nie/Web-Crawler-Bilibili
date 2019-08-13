@@ -23,7 +23,7 @@ GENDER
 
 Among the 1000 data, 
 the ratio of male : female = 2.2 : 1
-
+![gender_pie_chart](https://user-images.githubusercontent.com/52882728/62911891-897fd880-bdb8-11e9-932e-7ac85efbc3a2.png)
 
 
 
@@ -39,12 +39,21 @@ the higher the level, the higher the ratio of vip.
 FOLLOWER:
 
 The 3 most popular user:
-user id: 2000621 name: 叫我三木  home: https://space.bilibili.com/2000621  follower: 11168
-user_id: 2000587 name: 馥夜闻笛  home: https://space.bilibili.com/2000587  follower: 6759
+user id: 2000621 name: 叫我三木  home: https://space.bilibili.com/2000621  follower: 11168    
+user_id: 2000587 name: 馥夜闻笛  home: https://space.bilibili.com/2000587  follower: 6759    
 user id: 2000133 name: 津岛纸箱  hoem: https://space.bilibili.com/2000133  follower: 5066
 
+In general:
 
 
+![following](https://user-images.githubusercontent.com/52882728/62911996-fc894f00-bdb8-11e9-8704-54225db9ea40.png)
+
+
+
+
+
+FOLLOWING:
+![follower](https://user-images.githubusercontent.com/52882728/62912015-0743e400-bdb9-11e9-838f-efdca210a785.png)
 
 
 
