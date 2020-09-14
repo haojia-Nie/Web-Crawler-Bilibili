@@ -1,4 +1,4 @@
-# Bilibili_scrapying_basic
+# Web Crawler
 A basic and straight-forward scraping for bilibili, good for beginners
 
 
